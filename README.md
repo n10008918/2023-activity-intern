@@ -2,6 +2,19 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Task
+1. Setup routes for different pages. Users should be able to navigate between the links setup. You don’t need to provide any contents on the other links except for the Landing page. Under other links, it only has to show “dogs”, “cats” etc to only show that the user was able to successfully rerouted to another page. 
+2. When the user navigates to another page, the highlight should change and the underline should move to the current page. The highlight should disappear from the previous page. 
+3. Setup the Landing page, you can choose any images you like but the structure will stay the same. 
+4. The layout landing page should be responsive across devices
+5. Any components should be placed under components
+6. Any pages should be placed under pages
+7. Use Sass for any styling and any additional sass file must be placed under sass file
+
+Example Preview Image should look Something like: 
+![unnamed](https://github.com/n10008918/2023-activity-intern-React-/assets/81293394/1f284cef-9844-4492-a961-bb90be800f8e)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
